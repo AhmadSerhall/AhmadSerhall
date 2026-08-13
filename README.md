@@ -12,8 +12,9 @@ I'm a Computer Science graduate and Full-Stack Developer focused on turning idea
 
 * 💻 Full-Stack Developer with professional and independent development experience
 * 🎓 Bachelor's degree in Computer Science
+* 🤖 Incoming Master's student in Artificial Intelligence at **Saint Joseph University of Beirut (USJ)** — 2026–2027
 * 🧠 Interested in full-stack engineering, interactive applications, developer tools, and AI-powered experiences
-* 🎨 Passionate about combining strong engineering with polished UI/UX
+* 🎨 Passionate about combining strong engineering with polished UI/UX and creative web experiences
 * 🌍 Based in Lebanon and open to opportunities worldwide
 
 ---
@@ -26,7 +27,10 @@ Professional experience building and contributing to web platforms involving aut
 
 I've also designed and built independent projects spanning workflow automation, AI systems, educational platforms, analytics dashboards, and full-stack applications.
 
-### 🎓 Computer Science
+### 🎓 Education
+
+**Master's in Artificial Intelligence — Incoming 2026–2027**
+Saint Joseph University of Beirut (USJ)
 
 **Bachelor's Degree in Computer Science**
 Conservatoire National des Arts et Métiers (CNAM)
@@ -44,6 +48,10 @@ SE Factory
 
 `React` · `Next.js` · `Angular` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Tailwind CSS`
 
+**Creative & Interactive Web**
+
+`GSAP` · `React Three Fiber` · `Three.js` · `Framer Motion` · `React Flow` · `Chart.js`
+
 **Backend**
 
 `Node.js` · `Express` · `PHP` · `Python`
@@ -52,17 +60,17 @@ SE Factory
 
 `MongoDB` · `MySQL` · `Firebase` · `Supabase`
 
-**Tools & Technologies**
+**Tools & APIs**
 
-`Git` · `GitHub` · `REST APIs` · `React Flow` · `Chart.js`
+`Git` · `GitHub` · `REST APIs`
 
 ---
 
 ## 🌍 Languages
 
-🇱🇧 **Arabic** — Fluent
-🇬🇧 **English** — Fluent
-🇫🇷 **French** — Fluent
+ **Arabic** — Native
+ **English** — Fluent
+ **French** — Fluent
 
 ---
 
@@ -86,7 +94,7 @@ I'm interested in **Full-Stack and Software Engineering opportunities**, as well
 
 🌐 **Portfolio:** [ahmadserhal.dev](https://ahmadserhal.dev)
 💼 **LinkedIn:** [linkedin.com/in/ahmadserhal1](https://www.linkedin.com/in/ahmadserhal1/)
-💻 **GitHub:** [github.com/AhmadSerhall](https://github.com/AhmadSerhall)
+📧 **Email:** [ahmad.nour.serhal@gmail.com](mailto:ahmad.nour.serhal@gmail.com)
 
 ---
 
