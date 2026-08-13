@@ -68,9 +68,9 @@ SE Factory
 
 ## 🌍 Languages
 
- **Arabic** — Native
- **English** — Fluent
- **French** — Fluent
+- **Arabic** — Native
+- **English** — Fluent
+- **French** — Fluent
 
 ---
 
