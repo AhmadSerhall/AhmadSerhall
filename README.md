@@ -2,39 +2,39 @@
 
 ### Full-Stack Developer building interactive web applications, developer tools, and polished digital experiences.
 
-I'm a Computer Science graduate and Full-Stack Developer focused on building modern, responsive, and thoughtfully engineered web applications.
+I'm a Computer Science graduate and Full-Stack Developer focused on turning ideas into complete, thoughtfully engineered products — from responsive interfaces and interactive experiences to APIs, databases, authentication, and real-time functionality.
 
-I enjoy turning ideas into complete products — from frontend interfaces and interactive experiences to APIs, databases, authentication, real-time features, and application architecture.
-
-🌐 **Portfolio:** [ahmadserhal.dev](https://ahmadserhal.dev)
+🌐 **[Explore my portfolio →](https://ahmadserhal.dev)**
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 About Me
 
-### ⚙️ FlowForge
+* 💻 Full-Stack Developer with professional and independent development experience
+* 🎓 Bachelor's degree in Computer Science
+* 🧠 Interested in full-stack engineering, interactive applications, developer tools, and AI-powered experiences
+* 🎨 Passionate about combining strong engineering with polished UI/UX
+* 🌍 Based in Lebanon and open to opportunities worldwide
 
-A visual workflow editor and execution engine for designing, simulating, and presenting node-based workflows.
+---
 
-`Next.js` `TypeScript` `React Flow` `Tailwind CSS`
+## 💼 Experience & Education
 
-### 🤖 Agent Council
+### Full-Stack Development
 
-A visual multi-agent collaboration system where specialized AI agents decompose missions, exchange perspectives, resolve conflicts, and synthesize final outcomes.
+Professional experience building and contributing to web platforms involving authentication, social features, real-time communication, multilingual interfaces, storefront functionality, third-party integrations, and responsive user experiences.
 
-`Next.js` `TypeScript` `React Flow` `AI APIs`
+I've also designed and built independent projects spanning workflow automation, AI systems, educational platforms, analytics dashboards, and full-stack applications.
 
-### 🧩 PuzzlePy
+### 🎓 Computer Science
 
-An interactive Python learning platform built around visual puzzles, lessons, challenges, XP, streaks, achievements, and learner progression.
+**Bachelor's Degree in Computer Science**
+Conservatoire National des Arts et Métiers (CNAM)
 
-`React` `Node.js` `Express` `MongoDB` `Python`
+**Full-Stack Web Development**
+SE Factory
 
-### 🌦️ Weather Analytics
-
-A modern weather analytics workspace that transforms live and historical weather data into interactive visualizations and customizable dashboards.
-
-`Angular` `TypeScript` `Chart.js` `Open-Meteo`
+> More about my experience and background is available on my [portfolio](https://ahmadserhal.dev).
 
 ---
 
@@ -52,31 +52,42 @@ A modern weather analytics workspace that transforms live and historical weather
 
 `MongoDB` · `MySQL` · `Firebase` · `Supabase`
 
-**Tools**
+**Tools & Technologies**
 
 `Git` · `GitHub` · `REST APIs` · `React Flow` · `Chart.js`
 
 ---
 
-## 👨‍💻 What I Like Building
+## 🌍 Languages
 
-* Full-stack web applications
-* Interactive and data-driven interfaces
-* Developer and productivity tools
-* AI-powered experiences
-* Real-time applications
-* Creative UI/UX and web interactions
+🇱🇧 **Arabic** — Fluent
+🇬🇧 **English** — Fluent
+🇫🇷 **French** — Fluent
 
 ---
 
-## 🌐 Find Me Online
+## 🚀 Explore My Work
 
-**Portfolio:** [ahmadserhal.dev](https://ahmadserhal.dev)
+My repositories are primarily private, but I've documented my selected work through detailed, interactive case studies on my portfolio.
 
-**LinkedIn:** [linkedin.com/in/ahmadserhal1](https://www.linkedin.com/in/ahmadserhal1/)
+You'll find projects covering:
 
-**GitHub:** [github.com/AhmadSerhall](https://github.com/AhmadSerhall)
+`Full-Stack Development` · `Workflow Systems` · `AI` · `Data Visualization` · `Education` · `Interactive UI`
+
+Each case study explores the product, engineering decisions, technologies, features, and interface in detail.
+
+### → [View Projects & Case Studies](https://ahmadserhal.dev)
 
 ---
 
-### Always building, learning, and turning ideas into working products. 🚀
+## 🤝 Let's Connect
+
+I'm interested in **Full-Stack and Software Engineering opportunities**, as well as ambitious projects where I can contribute across both engineering and product experience.
+
+🌐 **Portfolio:** [ahmadserhal.dev](https://ahmadserhal.dev)
+💼 **LinkedIn:** [linkedin.com/in/ahmadserhal1](https://www.linkedin.com/in/ahmadserhal1/)
+💻 **GitHub:** [github.com/AhmadSerhall](https://github.com/AhmadSerhall)
+
+---
+
+### Building software that is useful, interactive, and enjoyable to use. ⚡
